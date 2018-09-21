@@ -1,0 +1,14 @@
+C:\CC6\hw6\HW6\HW6\bin\Debug\HW6.exe.config
+C:\CC6\hw6\HW6\HW6\bin\Debug\HW6.exe
+C:\CC6\hw6\HW6\HW6\bin\Debug\HW6.pdb
+C:\CC6\hw6\HW6\HW6\obj\Debug\HW6.csprojAssemblyReference.cache
+C:\CC6\hw6\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\CC6\hw6\HW6\HW6\obj\Debug\HW6.exe
+C:\CC6\hw6\HW6\HW6\obj\Debug\HW6.pdb
+C:\CC6\HW6\HW6\bin\Debug\HW6.exe.config
+C:\CC6\HW6\HW6\bin\Debug\HW6.exe
+C:\CC6\HW6\HW6\bin\Debug\HW6.pdb
+C:\CC6\HW6\HW6\obj\Debug\HW6.csprojAssemblyReference.cache
+C:\CC6\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\CC6\HW6\HW6\obj\Debug\HW6.exe
+C:\CC6\HW6\HW6\obj\Debug\HW6.pdb
